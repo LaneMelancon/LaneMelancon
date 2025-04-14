@@ -1,7 +1,6 @@
 - Hi, I’m @LaneMelancon
-- I’m interested in Graphic Design and Web Development
-- I'm currently learning HTML, CSS, and JS.
-  I'm in the process of learning development so that I can bring my designs to life!
+- I’m a Webflow and UI/UX Designer
+- I'm currently obsessed with React!
 
 <!---
 LaneMelancon/LaneMelancon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
